@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AR Drill App</string>
+    <string name="select_drill">Select Drill</string>
+    <string name="view_drill_details">View Drill Details</string>
+    <string name="start_ar_drill">Start AR Drill</string>
+    <string name="tap_instruction">Tap on ground to place drill marker</string>
+</resources>
