@@ -53,7 +53,4 @@ Select your connected device
 
 Grant Camera Permission when the app launches
 
-## 📦 APK File
-Pre-built APK is generated in:
 
-app/build/outputs/apk/debug/
