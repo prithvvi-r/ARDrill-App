@@ -18,7 +18,6 @@ A mobile application to visualize and place virtual drills using **ARCore** on s
 
 ```bash
 git clone https://github.com/prithvvi-r/ARDrill-App.git
-cd ar-drill-app
 ```
 
 ### 2. Open in Android Studio
