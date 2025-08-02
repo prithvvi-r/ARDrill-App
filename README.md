@@ -8,7 +8,6 @@ A mobile application to visualize and place virtual drills using **ARCore** on s
 
 - Android Studio
 - Android device with **ARCore** support
-- USB cable
 
 ---
 
